@@ -1,6 +1,6 @@
-import React from 'react'c
+import React from 'react'
 
-lass RegistrationForm extends React.Component {
+class RegistrationForm extends React.Component {
   render() {
     return (
       <div>
